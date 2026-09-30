@@ -1,0 +1,6 @@
+{
+  "name": "方块筑梦师 - 空间积木解谜小游戏",
+  "description": "一款微信风格的3D空间逻辑积木搭建解谜闯关小游戏，挑战三视图空间推演、重力搭建与机关通路，支持关卡工坊与微信朋友圈海报PK比拼。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
